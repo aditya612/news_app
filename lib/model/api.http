@@ -1,0 +1,1 @@
+GET https://newsscrapy.herokuapp.com/api/all_news HTTP/1.1
